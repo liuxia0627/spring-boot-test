@@ -19,6 +19,9 @@ import java.util.UUID;
 @AllArgsConstructor
 @Builder
 @Entity
+/**
+ * Add comments from master branch
+ */
 public class Beer {
 
     @Id
