@@ -19,6 +19,9 @@ import java.util.UUID;
 @AllArgsConstructor
 @Builder
 @Entity
+/**
+ * Domain Object of Beer
+ */
 public class Beer {
 
     @Id
